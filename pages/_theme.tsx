@@ -12,11 +12,6 @@ export default createTheme({
       path: '/guide/introduce',
       activeIfMatch: '/guide',
     },
-    {
-      label: 'Reference',
-      path: '/reference/glossary',
-      activeIfMatch: '/reference',
-    },
     { label: 'Xuqma', href: 'https://github.com/GANAMYDE/Xuqma' },
     {
       label: 'Xuqma Website',
