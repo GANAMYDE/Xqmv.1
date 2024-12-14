@@ -2,7 +2,9 @@ import React from 'react'
 import { createTheme, defaultSideNavs } from 'vite-pages-theme-doc'
 
 export default createTheme({
-  logo: <div style={{ fontSize: '20px' }}>📘 XuQMA</div>,
+  logo: <div style={{ fontSize: '20px' }}>
+
+  🦅 XuQMA</div>,
   topNavs: [
     { label: 'Home', path: '/' },
     {
@@ -15,10 +17,10 @@ export default createTheme({
       path: '/reference/glossary',
       activeIfMatch: '/reference',
     },
-    { label: 'Vite', href: 'https://github.com/vitejs/vite' },
+    { label: 'Xuqma', href: 'https://github.com/GANAMYDE/Xuqma' },
     {
-      label: 'Vite Pages',
-      href: 'https://github.com/vitejs/vite-plugin-react-pages',
+      label: 'Xuqma Website',
+      href: 'https://xuqma.vercel.app',
     },
   ],
   sideNavs: (ctx) => {

@@ -1,13 +1,36 @@
-# XuQMA
-# How to use
+# XuQMA - UI Component Library
 
-`npm install` or `pnpm install` or `yarn`
+**XuQMA** is a modern, lightweight, and accessible UI component library designed to help developers and designers build beautiful, responsive web applications quickly and efficiently. It offers a wide range of customizable components that integrate seamlessly into any project.
 
-`npm run dev` You can now play with the local develop environment.
+---
 
-Edit `pages/page1$.tsx` or other source files, the playground will inflect your change instantly.
+## Key Features
 
-`npm run build` The app are built and served.
+- **Reusable Components**: Pre-built components like buttons, modals, cards, and more.
+- **Customizable**: Easily tweak styles with built-in customization options or override them with your own CSS.
+- **Responsive Design**: Fully responsive, works seamlessly on any device or screen size.
+- **Accessibility**: Built with accessibility best practices to ensure usability for everyone.
+- **Modern Aesthetics**: Components designed with a contemporary and clean look.
 
-`npm run ssr` The app are built into a static site (Static-Site Generation) and served.
+---
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Components](#components)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
+---
+
+## Installation
+
+### Using npm
+
+To install XuQMA, you can use npm:
+
+```bash
+npm install
